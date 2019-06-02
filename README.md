@@ -15,7 +15,7 @@ Gr-iut est un projet ayant pour but de créer de toutes pièces une grue miniatu
 
 Le schéma ci-dessous montre le fonctionnement du système électronique :
 
-<img src="https://github.com/Brautantoine/projet_du_chemar/blob/master/gestionDeProjet/Schema/Synoptique/SynoptiqueV1.png"  alt="drawing" width="720"/>
+<img src="https://github.com/Brautantoine/gr-iut/blob/master/CAO/ELEC/Ressource/Synoptique/gr-iut.png" alt="drawing" width="720"/>
 
 ## Matériel requis ##
 
