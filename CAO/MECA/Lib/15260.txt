@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"TW-04-12";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"SUPPLIER";"Igus";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"4884981";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"IGUS(R) Drylin T carriage,Type 12";"";
+"TraceParts.InstanceId";"10-25012011-0826622CWMBFILF5DLYJD5YY9PVLSXT";"";
+"TraceParts.PartTitle";"IGUS(R) Drylin T carriage,Type 12";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"02/01/2011 11:24:21";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-25012011-082662";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-25012011-082662";"";

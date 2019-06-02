@@ -6,11 +6,11 @@ Copyright gr-iut (C) 2019 Antoine Braut for IUT de Cachan
 
 Gr-iut est un projet ayant pour but de créer de toutes pièces une grue miniature. Il se décompose en trois parties :
 
-1. [La mécanique](https://github.com/Brautantoine/projet_du_chemar/tree/master/serveur/commandServeur)
+1. [La mécanique](https://github.com/Brautantoine/gr-iut/tree/master/CAO/MECA)
 	Elle comporte toute la structure de la grue ainsi que toutes les pièces nécessaires à son fonctionnement.
-2. [La carte électronique](https://github.com/Brautantoine/projet_du_chemar/tree/master/Tablette)
+2. [La carte électronique](https://github.com/Brautantoine/gr-iut/tree/master/CAO/ELEC)
 	Elle relie toutes les parties électroniques entre elles pour assurer le fonctionnement de la grue.
-3. [Le code de la grue](https://github.com/Brautantoine/projet_du_chemar/tree/master/Bracelet/)
+3. [Le code de la grue](https://github.com/Brautantoine/gr-iut/tree/SOFT/Mbed)
 	Il gère le fonctionnement de la carte électronique.
 
 Le schéma ci-dessous montre le fonctionnement du système électronique :

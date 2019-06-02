@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"TS-04-15-300";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"SUPPLIER";"Igus";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"4885079";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"IGUS(R) Drylin T Al rail,300Lx15Wmm";"";
+"TraceParts.InstanceId";"10-25012011-082645F303GM9X2DFYDLVTFGNWO7EQM";"";
+"TraceParts.PartTitle";"IGUS(R) Drylin T Al rail,300Lx15Wmm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"02/01/2011 11:24:21";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-25012011-082645";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-25012011-082645";"";
