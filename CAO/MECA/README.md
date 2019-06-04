@@ -2,6 +2,10 @@
 
 Cette partie concerne tous les aspects mécaniques de la grue.
 
+<img src="https://github.com/Brautantoine/gr-iut/blob/master/CAO/MECA/Ressource/Screen/preview_angle.png" alt="drawing" width="460"/>
+<img src="https://github.com/Brautantoine/gr-iut/blob/master/CAO/MECA/Ressource/Synoptique/preview_front.png" alt="drawing" width="460"/>
+<img src="https://github.com/Brautantoine/gr-iut/blob/master/CAO/MECA/Ressource/Synoptique/preview_top.png" alt="drawing" width="460"/>
+
 ## Les différents mouvements de la grue ##
 
 La grue s'articule autour de trois mouvements.
